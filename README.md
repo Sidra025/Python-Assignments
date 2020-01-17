@@ -1,2 +1,11 @@
+# Mass IT Training Program
+
 # Python-Assignments
-Certified Python Programming group
+  Included the following:
+  - Variables
+  - Strings
+  - List
+  - Dictionary
+  - OOPs( Classes)
+  - Basic definitions
+

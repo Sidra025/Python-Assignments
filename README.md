@@ -6,6 +6,7 @@
   - Strings
   - List
   - Dictionary
+  - Functions
   - OOPs( Classes)
   - Basic definitions
 

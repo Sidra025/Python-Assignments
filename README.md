@@ -7,6 +7,6 @@
   - List
   - Dictionary
   - Functions
-  - OOPs( Classes)
+  - OOPs( Class etc)
   - Basic definitions
 
